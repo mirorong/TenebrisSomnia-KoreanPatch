@@ -3,7 +3,7 @@
 스팀판 **Tenebris Somnia** 비공식 한글패치입니다.
 
 > 📖 **설치 방법, 스크린샷, 업데이트 소식은 블로그에서 확인하세요**
-> 👉 https://mirorong0323.tistory.com/5
+> 👉 https://mirorong0323.tistory.com/4
 
 ## 다운로드
 
@@ -27,7 +27,7 @@ Releases 페이지의 **Assets**에서 패치 zip 파일을 받으시면 됩니�
 
 ## 오역 · 버그 제보
 
-[블로그](https://mirorong0323.tistory.com/5) 댓글로 남겨 주세요.
+[블로그](https://mirorong0323.tistory.com/4) 댓글로 남겨 주세요.
 
 ---
 
