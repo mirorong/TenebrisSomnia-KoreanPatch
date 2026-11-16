@@ -2,32 +2,17 @@
 
 스팀판 **Tenebris Somnia** 비공식 한글패치입니다.
 
-> 📖 **설치 방법, 스크린샷, 업데이트 소식은 블로그에서 확인하세요**
-> 👉 https://mirorong0323.tistory.com/4
-
 ## 다운로드
 
 [**최신 버전 받기**](https://github.com/mirorong/TenebrisSomnia-KoreanPatch/releases/latest)
 
-Releases 페이지의 **Assets**에서 패치 zip 파일을 받으시면 됩니다.
-함께 표시되는 Source code 파일은 받을 필요 없습니다.
+Releases 페이지의 **Assets**에서 패치 zip 파일을 받으시면 됩니다. Source code 파일은 받을 필요 없습니다.
 
-## 설치 방법
+## 설치 방법과 주의사항
 
-1. Steam 라이브러리에서 게임 우클릭 → **관리 → 로컬 파일 보기**로 게임 폴더를 엽니다.
-2. **`TenebrisSomnia` 폴더**를 게임 폴더에 그대로 복사합니다. (덮어쓰기)
-3. 게임을 실행하고 **설정 → Language → 한국어**를 고릅니다.
+블로그 글에서 확인해 주세요. 오역이나 버그 제보도 블로그 댓글로 받습니다.
 
-
-## 알아두세요
-
-- 한국어는 언어 목록의 **Português 자리**에 들어갑니다. English · Español · 日本語는 원래의 언어로 나옵니다.
-- 게임이 업데이트되면 한글이 나오지 않거나 게임이 제대로 실행되지 않을 수 있습니다. 이때는 패치 파일을 지우고 패치 업데이트를 기다려 주세요.
-- 설치 전에 세이브 파일을 백업해 두길 권장합니다.
-
-## 오역 · 버그 제보
-
-[블로그](https://mirorong0323.tistory.com/4) 댓글로 남겨 주세요.
+https://mirorong0323.tistory.com/4
 
 ---
 
